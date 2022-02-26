@@ -1,13 +1,13 @@
-# Readme
-
-## Zachary Hudson 
+# Zachary Hudson 
 
 
 
 #### Donations
 
 Wikipedia
+
 Mozilla
+
 Electronic Frontier Foundation
 
 
