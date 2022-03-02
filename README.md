@@ -7,11 +7,11 @@
 
 ## Links
 
-(https://inteltechniques.com/links.html)
+https://inteltechniques.com/links.html
 
-(https://ssd.eff.org)
+https://ssd.eff.org
 
-(https://awesomeopensource.com/project/tycrek/degoogle)
+https://awesomeopensource.com/project/tycrek/degoogle
 
 
 #### Donations
