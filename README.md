@@ -1,5 +1,8 @@
 # Zachary Hudson 
 
+
+## Things to remember
+
 *Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.* - Benjamin Franklin
 
 
