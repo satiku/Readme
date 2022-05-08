@@ -25,7 +25,7 @@ https://ssd.eff.org
 https://awesomeopensource.com/project/tycrek/degoogle
 
 
-#### Donations
+### Supports
 
 Wikipedia
 
